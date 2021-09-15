@@ -12,7 +12,7 @@ Welcome to junisky's documentation!
 
 
 
-Indices and tables
+Indices and tables(색인과 테이블)
 ==================
 
 * :ref:`genindex`
